@@ -15,6 +15,7 @@ public class App
         System.out.println( "This is a new release");
         System.out.println( "is a new release");
         System.out.println( "I have added a Hot Fix");
+        System.out.println( "I have added a Hot Fix 2");
         
     }
 }
